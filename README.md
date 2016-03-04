@@ -36,6 +36,8 @@ When adding a new feature you need to provide the following parameters
 |imageheight|375px|The height of the image|
 |categories|features|Needs to be `features`|
 
+Workflow: https://workflow.is/workflows/a23cdb23029a4bbeb2334c054cc8c916
+
 ### The Makers
 
 When adding a new maker you need to provide the following parameters
@@ -47,6 +49,8 @@ When adding a new maker you need to provide the following parameters
 |date|2016-03-04 11:55:18 +0800|The current date, newer dates will be sorted above other makers.|
 |maker_image|"/img/PietPortrait.png"|Relative path to the portrait, will be prefixed with `http://git2go.com`|
 |categories|makers|Needs to be `makers`|
+
+Workflow: https://workflow.is/workflows/8ec3f94fb3164c11ab521b62554da964
 
 ### What others say
 
