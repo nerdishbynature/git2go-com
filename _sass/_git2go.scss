@@ -1,0 +1,71 @@
+.btn-primary {
+  background-color:#C555B6; color:#fff
+};
+
+.purple {
+  color:#C555B6;
+}
+
+.blue {
+  color:#70D6E5;
+}
+
+.black {
+  color:#404040;
+}
+
+.white {
+  color:#fff!important;
+}
+
+.white-border {
+  border-color:#fff;
+}
+
+.new {
+  color: #1E212D;
+  background-color: #70D6E5;
+  padding: 0.125em 0.5em;
+  border-radius: 5px
+}
+
+.btn:hover {
+  border-color:#C555B6;
+  color:#fff;
+}
+
+.btn-cta {
+  background-color: #C555B6;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-cta:hover {
+  background-color: #C555B6;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-cta:visited {
+  background-color: #C555B6;
+  color: #fff;
+  text-decoration: none;
+}
+
+.mailinput {
+  border-radius: 0.25em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
+}
+
+@media screen and (min-width: 32em) {
+  .mailinput {
+    max-width: 24em !important;
+  }
+  .btn--full {
+    max-width: 24em !important;
+  }
+}

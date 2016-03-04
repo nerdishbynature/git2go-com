@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git2Go - The Git client for iOS you always wanted</title>
+    <description>Git2Go finally gives you all the git functionalities you always wanted on your iOS device. Connect GitHub accounts, push commits.
+</description>
+    <link>http://git2go.com/</link>
+    <atom:link href="http://git2go.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 04 Mar 2016 14:33:05 +0800</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 14:33:05 +0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Seamless Git Integration for GitHub, GitHub Enterprise, Bitbucket &amp; GitLab</title>
+        <description>&lt;p&gt;Take all your Git accounts with you by connecting them in Git2Go. Logging in is super smooth and you’re immediately able to access all your repositories.&lt;/p&gt;
+
+&lt;p&gt;GitHub, GitHub Enterprise, Bitbucket, GitLab and self-hosted GitLab EE + CE are fully supported!&lt;/p&gt;
+
+&lt;p&gt;While everybody can directly start cloning their public repositories, private ones require the one time ‘Git2Go Private’ In App-Purchase (which will make our indie hearts jump). If you want to go full enterprise as well, we have a bundled ‘Git2Go Unlimited’ IAP ready to go for you.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:55:18 +0800</pubDate>
+        <link>http://git2go.com/features/2016/03/04/remotes-feature.html</link>
+        <guid isPermaLink="true">http://git2go.com/features/2016/03/04/remotes-feature.html</guid>
+        
+        
+        <category>features</category>
+        
+      </item>
+    
+      <item>
+        <title>Piet Brauer</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/pietbrauer&quot;&gt;Piet Brauer&lt;/a&gt; is an iOS developer from Hamburg, Germany. While working at XING he discovered his passion for automation, streamlining processes and Open Source. When not developing Git2Go he likes taking walks and having beers in the sun.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:55:18 +0800</pubDate>
+        <link>http://git2go.com/makers/2016/03/04/piet-maker.html</link>
+        <guid isPermaLink="true">http://git2go.com/makers/2016/03/04/piet-maker.html</guid>
+        
+        
+        <category>makers</category>
+        
+      </item>
+    
+      <item>
+        <title>A Git compatible Code Editor at your fingertips</title>
+        <description>&lt;p&gt;Seeing your repos is nice, but the real magic starts when you can start to take immediate actions from your iOS device.&lt;/p&gt;
+
+&lt;p&gt;Git2Go enables you to switch into edit mode for all your files with only performing one tap.&lt;/p&gt;
+
+&lt;p&gt;Start adding lines of code during your commute and push them immediately into the branch of your choice, rocking an impressive syntax highlighting engine supporting for JavaScript, Java, Ruby, PHP,
+    Python, CSS, C#‚ C, Objective-C, Swift and HTML.&lt;/p&gt;
+
+&lt;p&gt;Contributing to your repositories has never been easier without the bloat and complexity of desktop applications.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:54:18 +0800</pubDate>
+        <link>http://git2go.com/features/2016/03/04/editor-feature.html</link>
+        <guid isPermaLink="true">http://git2go.com/features/2016/03/04/editor-feature.html</guid>
+        
+        
+        <category>features</category>
+        
+      </item>
+    
+      <item>
+        <title>Piet Brauer</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/herbigt&quot;&gt;Tim Herbig&lt;/a&gt; is a Product Manager from Hamburg, Germany. He’s currently with XING as a Product Owner for the Premium Membership on Mobile. When not working on side projects or blogging, he’s also pretty much into burgers, coffee, podcasts and triathlon.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:18 +0800</pubDate>
+        <link>http://git2go.com/makers/2016/03/04/tim-maker.html</link>
+        <guid isPermaLink="true">http://git2go.com/makers/2016/03/04/tim-maker.html</guid>
+        
+        
+        <category>makers</category>
+        
+      </item>
+    
+      <item>
+        <title>Samuel Giddins Testimonial</title>
+        <description>&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;”&lt;/span&gt;If you’ve ever wanted to push code from your phone, go buy @Git2Go right now.&lt;span class=&quot;blue&quot;&gt;”&lt;/span&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:18 +0800</pubDate>
+        <link>http://git2go.com/testimonials/2016/03/04/samuel-giddins-testimonial.html</link>
+        <guid isPermaLink="true">http://git2go.com/testimonials/2016/03/04/samuel-giddins-testimonial.html</guid>
+        
+        
+        <category>testimonials</category>
+        
+      </item>
+    
+      <item>
+        <title>Work with all the files you need</title>
+        <description>&lt;p&gt;Sometimes, the files you need right now the most are stored somewhere else. That’s why Git2Go perfectly integrates with available Document Providers.
+You’re thereby also able to edit any file you like in your favorite editor like Texttastic or Byword and even import your most recent photo or file for committing it to your favorite repository.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:18 +0800</pubDate>
+        <link>http://git2go.com/features/2016/03/04/commithistory-feature.html</link>
+        <guid isPermaLink="true">http://git2go.com/features/2016/03/04/commithistory-feature.html</guid>
+        
+        
+        <category>features</category>
+        
+      </item>
+    
+      <item>
+        <title>Travis Mcarthur Testimonial</title>
+        <description>&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;”&lt;/span&gt;Super impressed by Git2Go - better #git client on my phone than most desktop clients.&lt;span class=&quot;blue&quot;&gt;”&lt;/span&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:17 +0800</pubDate>
+        <link>http://git2go.com/testimonials/2016/03/04/travis-mcarthur-testimonial.html</link>
+        <guid isPermaLink="true">http://git2go.com/testimonials/2016/03/04/travis-mcarthur-testimonial.html</guid>
+        
+        
+        <category>testimonials</category>
+        
+      </item>
+    
+      <item>
+        <title>Commit History and Staging Support</title>
+        <description>&lt;p&gt;Tracking progress within a repository can be hard, but the simplified history view within Git2Go makes it incredibly easy. Stay up to date and jump right in if you need to.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:17 +0800</pubDate>
+        <link>http://git2go.com/features/2016/03/04/fileedit-feature.html</link>
+        <guid isPermaLink="true">http://git2go.com/features/2016/03/04/fileedit-feature.html</guid>
+        
+        
+        <category>features</category>
+        
+      </item>
+    
+      <item>
+        <title>Brian Gesiak Testimonial</title>
+        <description>&lt;p&gt;&lt;span class=&quot;blue&quot;&gt;”&lt;/span&gt;Touchdown in California. Used @Git2Go to write code on my phone the whole time. We live in the future, and it’s amazing.&lt;span class=&quot;blue&quot;&gt;”&lt;/span&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:17 +0800</pubDate>
+        <link>http://git2go.com/testimonials/2016/03/04/brian-gesiak-testimonial.html</link>
+        <guid isPermaLink="true">http://git2go.com/testimonials/2016/03/04/brian-gesiak-testimonial.html</guid>
+        
+        
+        <category>testimonials</category>
+        
+      </item>
+    
+      <item>
+        <title>Instantly Clone Repos from Safari</title>
+        <description>&lt;p&gt;Did you ever saw that fancy hip GitHub repo being posted on Twitter, wondering what it contains and how it is structured?&lt;br /&gt;Well, with our brand new Safari extension, you can immediately clone it to Git2Go and view it natively on your iOS device.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Mar 2016 19:53:16 +0800</pubDate>
+        <link>http://git2go.com/features/2016/03/04/safari-clone-feature.html</link>
+        <guid isPermaLink="true">http://git2go.com/features/2016/03/04/safari-clone-feature.html</guid>
+        
+        
+        <category>features</category>
+        
+      </item>
+    
+  </channel>
+</rss>
