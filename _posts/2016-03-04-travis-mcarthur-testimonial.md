@@ -1,7 +1,7 @@
 ---
 layout: default
 date:   2016-03-04 11:53:17
-image: "./img/TravisPortrait.png"
+image: "/img/TravisPortrait.png"
 author: "Travis Mcarthur, iOS Dev on @AmazonKindle"
 categories: testimonials
 ---

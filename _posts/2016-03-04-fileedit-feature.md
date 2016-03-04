@@ -2,7 +2,7 @@
 layout: default
 title:  "Commit History and Staging Support"
 date:   2016-03-04 11:53:17
-image: "./img/img_commits_smlr.png"
+image: "/img/img_commits_smlr.png"
 imagewidth: 300px
 imageheight: 375px
 categories: features
