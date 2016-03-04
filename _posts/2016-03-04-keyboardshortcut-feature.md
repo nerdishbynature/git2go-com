@@ -1,10 +1,10 @@
 ---
 layout: default
 title:  "Take a shortcut to Productivity"
-date:   2016-03-04 11:54:18 +0800
-image: "/img/img_file_smlr.png"
-imagewidth: 300px
-imageheight: 375px
+date:   2016-03-04 11:53:12 +0800
+image: "/img/img_file_ipad_smlr.png"
+imagewidth: 375px
+imageheight: 264px
 categories: features
 ---
 
