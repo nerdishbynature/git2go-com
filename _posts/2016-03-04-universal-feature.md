@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Thought Universal right from the start"
 date:   2016-03-04 11:53:15
 image: "./img/img_file_ipad_smlr.png"

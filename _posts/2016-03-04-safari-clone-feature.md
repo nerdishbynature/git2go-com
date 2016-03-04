@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Instantly Clone Repos from Safari"
 date:   2016-03-04 11:53:16
 image: "./img/img_safarishare_smlr.png"

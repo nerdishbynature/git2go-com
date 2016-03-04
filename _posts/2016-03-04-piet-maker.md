@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Piet Brauer"
 date:   2016-03-04 11:55:18
 maker_image: "./img/PietPortrait.png"

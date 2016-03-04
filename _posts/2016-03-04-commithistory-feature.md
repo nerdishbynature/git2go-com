@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Work with all the files you need"
 date:   2016-03-04 11:53:18
 image: "./img/img_fileedit_smlr.png"

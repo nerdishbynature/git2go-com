@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Benefitting from the latest iOS 9 and iPhone 6S features"
 date:   2016-03-04 11:53:14
 image: "./img/img_spotlight_smlr.png"

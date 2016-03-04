@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "A Git compatible Code Editor at your fingertips"
 date:   2016-03-04 11:54:18
 image: "./img/img_file_smlr.png"

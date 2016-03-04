@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Seamless Git Integration for GitHub, GitHub Enterprise, Bitbucket & GitLab"
 date:   2016-03-04 11:55:18
 image: "./img/img_gitlab_smlr.png"
