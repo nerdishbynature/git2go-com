@@ -7,7 +7,6 @@ baseurl: "/git2go-com/" # the subpath of your site, e.g. /blog/
 url: "http://nerdishbynature.com" # the base hostname & protocol for your site
 twitter_username: Git2Go
 github_username:  nerdishbynature
-future: true
 
 # Build settings
 markdown: kramdown

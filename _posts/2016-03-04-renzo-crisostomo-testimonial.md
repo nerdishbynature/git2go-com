@@ -1,6 +1,6 @@
 ---
 layout: default
-date:   2016-03-04 11:53:16
+date:   2016-03-04 11:53:16 +0800
 image: "/img/RenzoPortrait.png"
 author: "Renzo Crisóstomo, iOS Developer at XING"
 categories: testimonials

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Work with all the files you need"
-date:   2016-03-04 11:53:18
+date:   2016-03-04 11:53:18 +0800
 image: "/img/img_fileedit_smlr.png"
 imagewidth: 300px
 imageheight: 375px

@@ -1,6 +1,6 @@
 ---
 layout: default
-date:   2016-03-04 11:53:17
+date:   2016-03-04 11:53:17 +0800
 image: "/img/BrianPortrait.png"
 author: "Brian Gesiak, Creator of Quick the Swift testing framework"
 categories: testimonials

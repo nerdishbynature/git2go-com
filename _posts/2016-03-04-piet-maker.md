@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Piet Brauer"
-date:   2016-03-04 11:55:18
+date:   2016-03-04 11:55:18 +0800
 maker_image: "/img/PietPortrait.png"
 categories: makers
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Thought Universal right from the start"
-date:   2016-03-04 11:53:15
+date:   2016-03-04 11:53:15 +0800
 image: "/img/img_file_ipad_smlr.png"
 imagewidth: 375px
 imageheight: 264px

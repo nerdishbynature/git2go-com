@@ -1,6 +1,6 @@
 ---
 layout: default
-date:   2016-03-04 11:53:18
+date:   2016-03-04 11:53:18 +0800
 image: "/img/SamuelPortrait.png"
 author: "Samuel Giddins, CocoaPods Core Member"
 categories: testimonials
