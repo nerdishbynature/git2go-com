@@ -1,0 +1,48 @@
+---
+layout: post
+title: Support
+twitter_username: pietbrauer
+categories: blog
+---
+
+Support can be the hardest and most cumbersome thing when launching an app. I launched some apps before without an integrated support system and got loads of emails which I had to respond to, for Git2Go we went another way.
+
+
+
+When we launched our beta we needed a well integrated, easy to use and easy to setup support system. Friends of mine recommended SupportKit. It integrated well with Slack and had an iMessage like In-App interface. Not to mention it is free for up to 10,000 users every month.
+
+SupportKit has rebranded in the mean time and is now called [Smooch](https://smooch.io). 
+
+Integration is as easy as it gets:
+
+{% highlight objective-c %}
+// AppDelegate.m
+- (void)setupSmooch {
+    SKTSettings *supportKitSetting = [SKTSettings settingsWithAppToken:@""];
+    supportKitSetting.conversationStatusBarStyle = UIStatusBarStyleLightContent;
+    [Smooch initWithSettings:supportKitSetting];
+}
+{% endhighlight %}
+
+This enables the internal support system to be set up. In the settings we added a support section which calls the Smooch component to be presented modally.
+
+{% highlight swift %}
+// SettingsViewController.swift
+Smooch.showConversationFromViewController(navigationController)
+{% endhighlight %}
+
+The user will then be presented with the conversation which looks something like this.
+
+![Support Git2Go]({{ site.url }}/img/2016-01-09-Support-Git2Go.jpg)
+
+As said before Smooch integrates perfectly with Slack, which is our chat system of choice.
+
+![Support Slack]({{ site.url }}/img/2016-01-09-Support-Slack.jpg)
+
+When the user sends a message we get a Slack notification and a new temporary channel containing the message the user sent next to some basic information like his name (which we get from your public Git information) and the device OS version. You can then talk to him via the `/sk [your message]` command. It may seem odd to not just reply directly but this gives you the freedom to talk to your team first without the user getting all the messages. So you can have a discussion about what to answer him and if someone had seen this bug/question before etc.
+This doesn't happen super often for us, but it is still nice to have the option.
+As soon as I reply to a message the user gets a notification (if he agreed to it). This is much faster than writing emails back and forth and feels more like the 21st century.
+
+Since launching in October we had over 110 conversations with our lovely users and one question/comment that came up the most was which support system we would use and what it costs.
+
+I can only recommend integrating with Smooch as I love their service and hope to see it implemented in more apps. It helped us get our reply time from a couple of hours to a few moments. Slack is much easier to use than email and it makes support more fun. If we grow a lot or we get an external support person it integrates well with Zendesk and other support systems so we don't have to switch the support system.

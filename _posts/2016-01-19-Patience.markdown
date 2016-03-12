@@ -1,0 +1,25 @@
+---
+layout: post
+title: Patience
+twitter_username: pietbrauer
+categories: blog
+---
+
+A couple of days ago we [published our sales numbers][1] from iTunes Connect and some usage data from Git2Go on Medium. We did this for information purposes and to prove our point that there is a market for productivity software out there. I am personally not a fan of keeping things behind closed doors. I think posts like these benefit the community and also inspire other developers to pursue their dream and build other useful apps.
+
+
+The post feedback was relatively quiet until [@steipete][2] tweeted about it and it got some traction (34 retweets, 46 likes/favs). We also submitted it to [HackerNews][3] where it got some comments (14) and eventually landed on the front page (with 22 points?). This came as a huge surprise to us. But the purpose of the article is not to brag about the traction we got from several people but about the interpretation of the numbers.
+
+Reading the comments and responses from people who own successful companies themselves or fellow Indie developers is an interesting thing. As developers we are used to highly paid jobs and doing something that gets you only $1,000 ([thousand][4]) in 66 days does seem like a really stupid idea.
+
+Our goal with Git2Go was never to make lots of money in the first two months but to have a steady stream of feedback on how to improve and also make some kind of living over time. We are here for the long term.
+
+Building a business around an app is not an easy thing (nor is opening a real life business). But we knew that before. The reason why we still started building was because we share the dream to help getting iOS out of the consuming corner and into the producing corner and this is a long way that needs a lot of convincing and arguments. Our marketing budget is not as big as Apples so [we are counting on Big Brother here][5].
+
+We are still working on Git2Go and adding features. We are also working with people who use the app in an unconventional, refreshing way. Git is much bigger than we all think. People use Git for all kinds of stuff from photo editing to blogging to note taking to developing websites. We are listening to all your feedback and want to make Git2Go work for your workflow.
+
+[1]:	https://medium.com/building-git2go/git2go-s-2015-sales-numbers-95280d7d5847#.x8cle9926
+[2]:	https://twitter.com/steipete/status/686516319714435072
+[3]:	https://news.ycombinator.com/item?id=10886663
+[4]:	https://news.ycombinator.com/item?id=10893112
+[5]:	http://www.apple.com/start-something-new/

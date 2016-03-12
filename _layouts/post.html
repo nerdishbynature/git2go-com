@@ -1,15 +1,20 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="container px2 sm-px3" style="max-width:64rem;">
+  {% include header.html %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+  <div class="post">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.twitter_username %} by <a href="https://twitter.com/{{ page.twitter_username }}">@{{ page.twitter_username }}</a>{% endif %}</p>
+    </header>
 
+    <article class="post-content">
+      {{ content }}
+    </article>
+  </div>
+  <hr class="white-border mb3"></hr>
+  {% include footer.html %}
 </div>
