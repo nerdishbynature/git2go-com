@@ -26,7 +26,7 @@
     <!-- Facebook og:tags -->
     <meta property="og:title"content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:site_name" content="git2go.com"/>
-    <meta property="og:url" content="http://git2go.com"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ site.url }}/img/img_commits_smlr.png"/>
