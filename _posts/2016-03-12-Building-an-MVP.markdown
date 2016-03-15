@@ -35,7 +35,7 @@ There are several things that are horribly wrong in this picture:
 
 ## This is not a Minimum Viable Pizza
 
-The fact that this is not a minimum viable pizza is disturbing enough. A minimum viable pizza would be a Pizza Margherita. It is essentially a Pizza but to proof your hypothesis you would still make the best fucking Pizza on the planet to make a demand for your product. Your Pizza would focus on the few ingredients that go into a Pizza: Wheat, Water, Yeast, Olive Oil, Salt, Mozzarella and Tomato. The same is true when building an app or a website. You make sure the few features you pack into it are the best you can come up with. 
+The fact that this is not a minimum viable pizza is disturbing enough. A minimum viable pizza would be a Pizza Margherita. It is essentially a Pizza but to proof your hypothesis you would still make the best Pizza on the planet to make a demand for your product. Your Pizza would focus on the few ingredients that go into a Pizza: Wheat, Water, Yeast, Olive Oil, Salt, Mozzarella and Tomato. The same is true when building an app or a website. You make sure the few features you pack into it are the best you can come up with. 
 
 This shows early users that you are a good chef/maker and that you care about your users and products. The lack of ingredients or features becomes a second or third thought in your users mind. They will say: "This Pizza is awesome, I can't wait until you put some Mushroom and Olives on it." Instead of: "This Pizza clearly lacks some ingredients and I will not eat it."
 

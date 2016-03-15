@@ -9,7 +9,7 @@ Since the earliest days of being a Mobile Product Manager, I overheard terms lik
 
 Suddenly, I was asked to create a new branch for the changes I had in mind myself. And how the hell was I supposed to merge anything, leave alone handling merge conflicts or even opening up a Pull Request? At that point, I already celebrated the creation of a new repo like launching in the App Store.
 
-Despite my own ambitions to learn coding, I always kind of avoided to really **understand** Git and was focussed on just not completely fucking-up collaborative code efforts.  
+Despite my own ambitions to learn coding, I always kind of avoided to really **understand** Git and was focussed on just not completely messing-up collaborative code efforts.  
 
 But when the idea of starting [Git2Go][1] began to become more and more concrete, I knew that I had to become way more comfortable and also confident with Git when I wanted to make an app work, which wants nothing less than to re-invent Git on mobile devices.
 
