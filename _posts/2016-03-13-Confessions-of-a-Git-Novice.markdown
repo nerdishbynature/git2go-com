@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Confessions of a Git Novice
-twitter\_username: herbigt
+twitter_username: herbigt
 categories: blog
 ---
 
