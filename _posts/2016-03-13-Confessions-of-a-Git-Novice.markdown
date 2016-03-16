@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Confessions of a Git Novice
-twitter\_username: herbigt
+twitter\_username: @herbigt
 categories: blog
 ---
 
-Since the earliest days of being a Mobile Product Manager, I overheard terms like branch, merge and commit in developer discussions during which my role was much more the one of the ‚client’.  But it wasn’t until I started to closely work with developers on my own side projects, when I truly tapped into the world of Git and version control in general. 
+Since the earliest days of being a Mobile Product Manager, I overheard terms like branch, merge and commit in developer discussions during which my role was much more the one of the 'client’.  But it wasn’t until I started to closely work with developers on my own side projects, when I truly tapped into the world of Git and version control in general. 
 
 Suddenly, I was asked to create a new branch for the changes I had in mind myself. And how the hell was I supposed to merge anything, leave alone handling merge conflicts or even opening up a Pull Request? At that point, I already celebrated the creation of a new repo like launching in the App Store.
 
@@ -29,7 +29,7 @@ So I quickly learned how to create branches, regularly commit and sync my change
 I’ll never forget those moments when I opened my first pull request back in the days, got a PR assigned myself or even hit the merge button without the need to hectically call Piet afterwards. It was such a rewarding feeling to get more productive with every achievement I unlocked - but also with every mistake I made along the way.
 
 ## The power of Git for non-developers
-While I meanwhile also learned to push code into collaborative repositories, I was far away of calling myself a developer. And even while I make some progress regarding my ‚engineering‘ skills, I still feel more comfortable in non-code environments - e.g. writing.  
+While I meanwhile also learned to push code into collaborative repositories, I was far away of calling myself a developer. And even while I make some progress regarding my 'engineering‘ skills, I still feel more comfortable in non-code environments - e.g. writing.  
 
 So, in order to have other playgrounds of practice for a continuous improvement of my Git skills, I tried to think of other scenarios to contribute content within a Git environment.
 
