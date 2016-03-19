@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to manage your Podcast Show Notes with Git
-twitter\_username: herbigt
+twitter_username: herbigt
 categories: blog
 ---
 
