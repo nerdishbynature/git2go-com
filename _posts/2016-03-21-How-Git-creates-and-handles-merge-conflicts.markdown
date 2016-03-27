@@ -52,14 +52,13 @@ Conflicts:
 5. `README.md`: last but not least Git writes the merge markers to the file(s) that conflicted. In our case:
 
 ```bash
-\<\<\<\<\<\<\< HEAD
-\`\`\`ruby
+<<<<<<< HEAD
+ruby
 $ jekyll serve
 =======
-\`\`\`bash
+bash
 $ jekyll serve -w -something-else
 > > > > > > > 9dabbe824510fea810526cbd67cd34e0905ac21f
-\`\`\`
 ```
 
 Having been given all these files, we can later determine how the merge should be done, which two commits are involved and what the merge strategy and message will be.
@@ -76,9 +75,7 @@ The arrows are so called merge conflict markers. Markers with arrows pointing to
 Next to the start and end markers are the two heads you try to merge. `HEAD` is the most recent commit on the branch you are currently on and `9dabbe824510fea810526cbd67cd34e0905ac21f` is the commit that caused the merge to fail. Knowing all this resolving the conflict is pretty easy: Just decide which is the desired outcome for your merge it is:
 
 ```
-\`\`\`ruby
 $ jekyll serve -something-else
-\`\`\`
 ```
 
 And all you have to do is to delete the lines you don't want to have and delete the markers. When you are done, head to the status and add all files. Once you press "commit" you are greeted with a message like:
