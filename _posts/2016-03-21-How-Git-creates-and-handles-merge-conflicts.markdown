@@ -18,7 +18,7 @@ Before we dig into on how to produce a merge conflict we first have to define wh
 
 Knowing what we are looking for we have to find out how to reproduce a merge conflict. To do that we prepared a video showing you the actions in our app `Git2Go`:
 
-\<iframe title="YouTube video player" class="youtube-player" type="text/html" 
+<iframe title="YouTube video player" class="youtube-player" type="text/html" 
 width="640" height="390" src="https://www.youtube.com/embed/EDqihknoLJg"
 frameborder="0" allowFullScreen\></iframe>
 
@@ -86,7 +86,7 @@ This message was populated of `libgit2` for us and all that's left to us is to h
 
 Watch the full video here:
 
-\<iframe title="YouTube video player" class="youtube-player" type="text/html" 
+<iframe title="YouTube video player" class="youtube-player" type="text/html" 
 width="640" height="390" src="https://www.youtube.com/embed/DlEzknUFnRY"
 frameborder="0" allowFullScreen\></iframe>
 
