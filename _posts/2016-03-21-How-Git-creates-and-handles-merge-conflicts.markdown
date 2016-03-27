@@ -20,7 +20,7 @@ Knowing what we are looking for we have to find out how to reproduce a merge con
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" 
 width="640" height="390" src="https://www.youtube.com/embed/EDqihknoLJg"
-frameborder="0" allowFullScreen\></iframe>
+frameborder="0" allowFullScreen></iframe>
 
 Since I have no intention to change the `master` branch we create a new branch called `branch1` off of this branch we create a new branch called `branch2`. You would normally create these two from your base branch with the intention to merge them into it later on. It might not even be you creating both of them but a collaborator.
 Next we modify the `README.md` on `branch1`. We commit the changes and switch to `branch2` where we also modify `README.md`. Since we changed the same lines on both files we think it might be a better idea to combine these changes into one branch only. So we check out `branch1` and merge `branch2` into it and are greeted with an alert message that displays the files affected and a short description of what just happened. It leaves us with a conflicted file and it is now up to us to resolve it.
@@ -88,7 +88,7 @@ Watch the full video here:
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" 
 width="640" height="390" src="https://www.youtube.com/embed/DlEzknUFnRY"
-frameborder="0" allowFullScreen\></iframe>
+frameborder="0" allowFullScreen></iframe>
 
 I hope you enjoyed this explainer of this 'popular' Git state. If so, feel free to share it with your Git-affiliated friends and us up [on Twitter ][3]with your merge conflict experiences - possibly even from an iOS device.
 
