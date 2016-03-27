@@ -58,7 +58,7 @@ $ jekyll serve
 =======
 bash
 $ jekyll serve -w -something-else
-> > > > > > > 9dabbe824510fea810526cbd67cd34e0905ac21f
+>>>>>>> 9dabbe824510fea810526cbd67cd34e0905ac21f
 ```
 
 Having been given all these files, we can later determine how the merge should be done, which two commits are involved and what the merge strategy and message will be.
