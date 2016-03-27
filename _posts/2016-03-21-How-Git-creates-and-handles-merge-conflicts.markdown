@@ -42,7 +42,7 @@ When you merge a commit into your current branch and Git cannot resolve the conf
 3. `.git/MERGE_MODE`: A file containing the way the merge should be performed, this is usually empty of contains your merge preferences, e.g. `-no-ff` indicating that you want a merge commit and it should not be fast-forwarded.
 4. `.git/MERGE_MSG`: This file is interesting because it contains the populated message that should be used when you finished resolving your conflicts. This contains something like:
 
-{% highlight %}
+{% highlight markdown %}
 Merge commit '9dabbe824510fea810526cbd67cd34e0905ac21f'
 
 Conflicts:
@@ -51,7 +51,7 @@ Conflicts:
 
 5. `README.md`: last but not least Git writes the merge markers to the file(s) that conflicted. In our case:
 
-{% highlight %}
+{% highlight bash %}
 \<\<\<\<\<\<\< HEAD
 \`\`\`ruby
 $ jekyll serve
@@ -75,7 +75,7 @@ The arrows are so called merge conflict markers. Markers with arrows pointing to
 
 Next to the start and end markers are the two heads you try to merge. `HEAD` is the most recent commit on the branch you are currently on and `9dabbe824510fea810526cbd67cd34e0905ac21f` is the commit that caused the merge to fail. Knowing all this resolving the conflict is pretty easy: Just decide which is the desired outcome for your merge it is:
 
-{% highlight %}
+{% highlight markdown %}
 \`\`\`ruby
 $ jekyll serve -something-else
 \`\`\`
