@@ -15,21 +15,21 @@ SupportKit has rebranded in the mean time and is now called [Smooch](https://smo
 
 Integration is as easy as it gets:
 
-{% highlight objective-c %}
+```objective-c
 // AppDelegate.m
 - (void)setupSmooch {
     SKTSettings *supportKitSetting = [SKTSettings settingsWithAppToken:@""];
     supportKitSetting.conversationStatusBarStyle = UIStatusBarStyleLightContent;
     [Smooch initWithSettings:supportKitSetting];
 }
-{% endhighlight %}
+```
 
 This enables the internal support system to be set up. In the settings we added a support section which calls the Smooch component to be presented modally.
 
-{% highlight swift %}
+```swift
 // SettingsViewController.swift
 Smooch.showConversationFromViewController(navigationController)
-{% endhighlight %}
+```
 
 The user will then be presented with the conversation which looks something like this.
 

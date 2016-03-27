@@ -9,6 +9,6 @@ twitter_username: Git2Go
 github_username:  nerdishbynature
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 gems:
   - jekyll-sitemap

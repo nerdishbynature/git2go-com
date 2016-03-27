@@ -42,16 +42,16 @@ When you merge a commit into your current branch and Git cannot resolve the conf
 3. `.git/MERGE_MODE`: A file containing the way the merge should be performed, this is usually empty of contains your merge preferences, e.g. `-no-ff` indicating that you want a merge commit and it should not be fast-forwarded.
 4. `.git/MERGE_MSG`: This file is interesting because it contains the populated message that should be used when you finished resolving your conflicts. This contains something like:
 
-{% highlight markdown %}
+```
 Merge commit '9dabbe824510fea810526cbd67cd34e0905ac21f'
 
 Conflicts:
 	README.md
-{% endhighlight %}
+```
 
 5. `README.md`: last but not least Git writes the merge markers to the file(s) that conflicted. In our case:
 
-{% highlight bash %}
+```bash
 \<\<\<\<\<\<\< HEAD
 \`\`\`ruby
 $ jekyll serve
@@ -60,7 +60,7 @@ $ jekyll serve
 $ jekyll serve -w -something-else
 > > > > > > > 9dabbe824510fea810526cbd67cd34e0905ac21f
 \`\`\`
-{% endhighlight %}
+```
 
 Having been given all these files, we can later determine how the merge should be done, which two commits are involved and what the merge strategy and message will be.
 A commit has usually only one parent - the commit before the current commit - but a merge has two parents indicating the merge so your coworkers and friends can see which commits you combined into one. The merge message also contains the conflicted files so all contributors can see which files were affected and how you solved the conflict.
@@ -75,11 +75,11 @@ The arrows are so called merge conflict markers. Markers with arrows pointing to
 
 Next to the start and end markers are the two heads you try to merge. `HEAD` is the most recent commit on the branch you are currently on and `9dabbe824510fea810526cbd67cd34e0905ac21f` is the commit that caused the merge to fail. Knowing all this resolving the conflict is pretty easy: Just decide which is the desired outcome for your merge it is:
 
-{% highlight markdown %}
+```
 \`\`\`ruby
 $ jekyll serve -something-else
 \`\`\`
-{% endhighlight %}
+```
 
 And all you have to do is to delete the lines you don't want to have and delete the markers. When you are done, head to the status and add all files. Once you press "commit" you are greeted with a message like:
 
