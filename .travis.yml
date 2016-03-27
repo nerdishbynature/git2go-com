@@ -1,5 +1,5 @@
 os: linux
 language: ruby
 rvm: 2.2.0
-install: gem install jekyll
+install: gem install jekyll jekyll-sitemap
 script: jekyll build
