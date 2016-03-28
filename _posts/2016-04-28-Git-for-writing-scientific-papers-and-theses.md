@@ -7,18 +7,18 @@ categories: blog
 
 I wish I had known about git and its opportunities while writing the final thesis for my university studies.
 
-When I wrote my final thesis a few years ago I had heard about git but only in the context of saving different versions of code. So I never even considered it helpful in the matter of writing a scientific paper. Looking back I know now that my life could have been so much easier in many ways.
+When I wrote my final thesis a few years ago, I had heard about git but only in the context of saving different versions of code. So I never even considered it helpful in the matter of writing a scientific paper. Looking back, I know now that my life could have been so much easier in many ways.
 
 ## Backups
 
-I saved my backups on different USB sticks and external hard drives. Since my thesis included many diagrams and images each copy needed quite some space. So I filled up directories and external storage media with copies.
-Also it was kind of hard to keep track which external hard drive actually contained what version. Trying to clean up the whole mess at some point I managed to delete my latest version. Don’t ask me how that happened, it sure was not intended. Luckily it was still stored in iCloud, but you can imagine how close I was to a heart attack at that point.
+I saved my backups on different USB sticks and external hard drives. Since my thesis included many diagrams and images, each copy needed quite some space. So I filled up directories and external storage media with copies.
+Also, it was kind of hard to keep track which external hard drive actually contained which version. While trying to clean up the whole mess at some point, I managed to delete my latest version. Don’t ask me how that happened, but it definitel was not intended. Luckily, it was still stored in iCloud, but you can imagine how close I was to a heart attack at that point.
 
-Git providers have remote servers so your documents will always be stored in their cloud and you don’t need to worry about ten different hard drives to keep your paper save. Github being one provider even has a free plan for students.
+Git providers have remote servers so your documents will always be stored in their cloud and you don’t need to worry about ten different hard drives to keep your paper save. Github, being one of the biggest and well-respected providers, even offers a free plan for students.
 
 ## Versions and Changes
 
-In order to document the evolution of the document I kept saving new versions marked with the date of the latest changes, but to be honest I hardly went back to actually look at the changes from one version to another. It’s just too much hassle going back forth between two huge documents.
+In order to keep track of the evolution of the document, I kept saving new versions marked with the date of the latest changes. But to be honest, I hardly went back to actually look at the changes from one version to another. It’s just too much hassle going back forth between two huge documents.
 
 Git shows you side by side the changes you have made, what has been added, what has been changed and what has been deleted. So you are less tempted to change the same sentence back and forth. 
 
