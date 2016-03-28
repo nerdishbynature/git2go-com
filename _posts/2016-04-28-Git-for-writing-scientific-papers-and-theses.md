@@ -20,7 +20,7 @@ Git providers have remote servers so your documents will always be stored in the
 
 In order to keep track of the evolution of the document, I kept saving new versions marked with the date of the latest changes. But to be honest, I hardly went back to actually look at the changes from one version to another. It’s just too much hassle going back forth between two huge documents.
 
-Git shows you side by side the changes you have made, what has been added, what has been changed and what has been deleted. So you are less tempted to change the same sentence back and forth. 
+Git on the other hand shows you side by side changes you have made, what has been added by whom, what has been changed and what has been deleted. This way, you are way less tempted to change the same sentence back and forth. 
 
 ## Reworking
 
