@@ -1,5 +1,9 @@
-## Git for writing scientific papers and theses
-
+---
+layout: post
+title: Git for writing scientific papers and theses
+twitter_username: kallenbergjulia
+categories: blog
+---
 I wish I had known about git and its opportunities while writing the final thesis for my university studies.
 
 When I wrote my final thesis a few years ago I had heard about git but only in the context of saving different versions of code. So I never even considered it helpful in the matter of writing a scientific paper. Looking back I know now that my life could have been so much easier in many ways.
