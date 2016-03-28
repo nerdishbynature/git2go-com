@@ -24,9 +24,9 @@ Git on the other hand shows you side by side changes you have made, what has bee
 
 ## Reworking
 
-I am sure everybody who ever has written a complex paper, (Mine ended up having about 120 pages all together), knows how hard it is to keep track on the parts that you may have checked and double checked already, and whenever you go back you will find pieces that you want to change, since for whatever reason they don’t feel quite right to you anymore. 
+I am sure everybody who has ever written a complex paper (mine ended up having about 120 pages all together) knows how hard it is to keep track on the parts that you may have checked and double checked already, and whenever you go back, you will find pieces that you want to change, since for whatever reason they don’t feel quite right to you anymore. 
 
-Since you have an overview of the changes you have made. Reworking drafts is also easier since you know what you have done already and therefor where to continue. This saves a lot of your time.
+Since you have an overview of the changes you have made, reworking drafts is also easier since you know what you have done already and therefor from where to continue. This saves a lot of your time.
 
 In order to make use of them you just need to use a git compatible editor.
 I wrote my thesis in Pages for Mac and the option of showing diffs doesn’t work with Pages. I suspect it wouldn’t work with Word documents either, but git does work with LaTex, which is quite common to use for writing scientific papers.
