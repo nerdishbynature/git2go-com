@@ -6,7 +6,7 @@
 <div class=" center sm-flex flex-start flex-justify py3">
   {% for maker in site.categories.makers %}
     <div class="px3 mb3">
-      <img class="mb2" style="height:150px; width:150px" src="{{ site.url }}{{ maker.maker_image }}">
+      <img class="mb2" style="height:150px; width:150px" src="{{ site.url }}{{ maker.maker_image }}" alt="{{ maker.title }}">
       {{ maker.content }}
     </div>
   {% endfor %} 
