@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git for writing scientific papers and theses
-twitter\_username: kallenbergjulia
+twitter_username: kallenbergjulia
 categories: blog
 ---
 
@@ -18,9 +18,9 @@ Git providers have remote servers so your documents will always be stored in the
 
 ## Versions and Changes
 
-In order to keep track of the evolution of the document, I kept saving new versions marked with the date of the latest changes. But to be honest, I hardly went back to actually look at the changes from one version to another. It’s just too much hassle going back forth between huge documents.
+In order to keep track of the evolution of the document, I kept saving new versions marked with the date of the latest changes. But to be honest, I hardly went back to actually look at the changes from one version to another. It’s just too much hassle going back and forth between huge documents.
 
-Git on the other hand shows you side by side changes you have made, what has been added by whom, what has been changed and what has been deleted. This way, you are way less tempted to change the same sentence back and forth. 
+Git on the other hand shows you side by side changes you have made, what has been added by whom, what has been changed and what has been deleted. This way, you are way less tempted to change the same sentence over and over again.
 
 ## Chapters
 
@@ -49,7 +49,7 @@ Git is also great for group work, since it is one of its major purposes in the '
 You can add contributors to a project who then can make changes to the content. The most common issue with group work in the conventional sense is to always provide the latest version to all team members. 
 With git there is no need to send updated versions via email among the group members anymore. You get notified about updates and can comment on changes or contribute to the latest version. 
 If different contributors have added changes at the same time there is no straight forward way to merge all changes in one (Word) document. Git will show where you have conflicting updates and you can simply choose which change you want to take to the next stage.
-To lern more about the handling of conflicts you can check out our [article on merge conflicts][3].
+To learn more about the handling of conflicts you can check out our [article on merge conflicts][3].
 
 Not only can you commit your changes directly to the repository but you can also create pull requests instead so that the other team members can review your changes and merge them if they agree.
 
