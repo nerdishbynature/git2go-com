@@ -1,0 +1,13 @@
+<div class="center mb3" id="quotes">
+  <h1 class="blue">What others say</h2>
+</div>
+<div class=" center sm-flex flex-start flex-justify py3">
+  {% for testimonial in site.categories.enterprise_testimonials %}
+  <div class="mb3 px2">
+    <img class="mb2" style="height:100px; width:100px" src="{{ site.url }}{{ testimonial.image }}" alt="{{ testimonial.author }}">
+    {{ testimonial.content }}
+    <p class="gray h5">{{ testimonial.author }}</p>
+  </div>
+    
+  {% endfor %}
+</div>
