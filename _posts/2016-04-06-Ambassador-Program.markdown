@@ -27,4 +27,6 @@ We are looking for a diverse group to represent our user base and anyone is welc
 
 We hope you like the idea as much as we do and we would love you to apply for it:
 
-<a href="{{ site.url }}/ambassador.html" class="btn btn--m btn-cta">Apply</a>
+<div class="center">
+	<a href="{{ site.url }}/ambassador.html" class="btn btn--m btn-cta">Apply</a>
+</div>
