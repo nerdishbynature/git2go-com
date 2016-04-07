@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <div class="center mt3">
+    <p><a id="appstoreBadge" style="text-decoration:none" href="https://itunes.apple.com/us/app/git2go-enterprise-git-client/id1079716387?ls=1&mt=8"><img style="height:48px; width:162px" alt="Available on the App Store" src="{{ site.url }}/img/AppStore_Badge.svg"></a></p>
+    <p>&copy; {{ site.time | date: '%Y' }} - Made with &hearts; in Hamburg</p>
+    <p><a class="purple" target="blank" href="http://twitter.com/git2go">Twitter</a> - <a class="purple" target="blank" href="https://medium.com/@herbigt/git2go-for-ios-review-guide-331fdea30120#.bfwap839i">Press Kit</a> - <a class="purple" target="blank" href="mailto:git2go@nerdishbynature.com">Say Hello</a> - <a class="purple" target="blank" href="http://nerdishbynature.com/imprint/">Imprint</a></p>
+  </div>
+</footer>
+
+<script>
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-58822446-1', 'auto');
+      ga('send', 'pageview');
+
+      document.getElementById("appstoreBadge").addEventListener("click", trackAppStoreBadgeClick);
+      document.getElementById("appIcon").addEventListener("click", trackAppIconClick);
+
+      function trackAppStoreBadgeClick() {
+         ga('send', 'event', 'AppStore', 'click', 'AppStoreBadge');
+      }
+
+      function trackAppIconClick() {
+         ga('send', 'event', 'AppStore', 'click', 'AppIcon');
+      }
+</script>
