@@ -12,4 +12,4 @@ iPads are probably the best classroom companion out there - Why shouldn’t have
 
 We have also enabled volume purchase discounts for universities. Let your students collaborate even when they are not in class and get up to 50% discount.
 
-[Just contact us](mailto:git2go@nerdishbynature.com) directly for more details on this plan.
+[Just contact us](mailto:git2go+enterprise@nerdishbynature.com) directly for more details on this plan.
