@@ -1,0 +1,16 @@
+<div class="center" id="content">
+  <h1 class="blue">Enterprise Features</h2>
+</div>
+
+{% for feature in site.categories.enterprise_features %}
+  {% capture modulo %}{{ forloop.index0 | modulo:2 }}{% endcapture %}
+<div class="sm-flex flex-center sm-col-10 py3 mx-auto">
+  <div class="{% if modulo == '0' %}flex-first{% endif %} sm-col sm-col-4 center">
+    <img style="height:{{ feature.imageheight }}; width:{{ feature.imagewidth }}" src="{{ site.url }}{{ feature.image }}" alt="{{ feature.title }}">
+  </div>
+  <div class="{% if modulo == '1' %}flex-first{% endif %} sm-col sm-col-8">
+    <h3>{{ feature.title }}</h3>
+    {{ feature.content }}
+  </div>
+</div>
+{% endfor %}
