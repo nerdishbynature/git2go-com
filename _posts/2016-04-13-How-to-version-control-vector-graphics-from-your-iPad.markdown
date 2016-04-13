@@ -10,7 +10,8 @@ If you are working as a designer or are a developer and do your own graphics you
 
 ## Meet Bez
 
-[Bez](http://www.juicybitssoftware.com/bez/) is an app developed by fellow indie developers at [Juicy Bits](http://www.juicybitssoftware.com). It was launched today and got a [bit of traction](http://daringfireball.net/linked/2016/04/12/bez) on the interwebs. We also downloaded the app immediately. Seeing the potential that lies in the app is just incredible. We all know that the iPad is superior when it comes to drawing using the Apple Pencil and direct manipulation of the object, rather than using a graphics tablet and Adobe Photoshop. The only thing missing in addition to [Pixelmator](http://www.pixelmator.com/ios/) and [Procreate](http://procreate.si/) was a tool for vector graphics.
+[Bez](http://www.juicybitssoftware.com/bez/) is an app developed by fellow indie developers at [Juicy Bits](http://www.juicybitssoftware.com). It was launched today and got a [bit of traction](http://daringfireball.net/linked/2016/04/12/bez) on the interwebs. We also downloaded the app immediately. 
+Seeing the potential that lies in the app is just incredible. We all know that the iPad is superior when it comes to drawing using the Apple Pencil and direct manipulation of the object, rather than using a graphics tablet and Adobe Photoshop. The only thing missing in addition to [Pixelmator](http://www.pixelmator.com/ios/) and [Procreate](http://procreate.si/) was a tool for vector graphics.
 
 As John Gruber put it:
 
