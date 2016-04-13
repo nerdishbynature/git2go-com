@@ -24,7 +24,7 @@ Most of our icons on the website are retina ready and use SVG vector graphics. S
 
 Thanks to Bez' superior use of System Components you can import SVG graphics from apps using the Document Provider Extension by simply tapping the little download cloud at the bottom of the screen.
 
-![Download cloud in action]({{ site.url }}/img/2016-04-13-bez-import.jgg)
+![Download cloud in action]({{ site.url }}/img/2016-04-13-bez-import.jpg)
 
 You can then alter the graphics in Bez and export them to Git2Go using the export method.
 
