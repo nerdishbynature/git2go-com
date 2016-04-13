@@ -34,7 +34,7 @@ This makes it really simple to see the changes of your SVG in Git2Go at a glance
 
 ![SVG Diff]({{ site.url }}/img/2016-04-13-svg-diff.jpg)
 
-We would welcome inplace editing (a.k.a. Open from ...) of SVG files without the need to import/export files every time, but I am sure there were reasons to implement this option. Secondly I would love to be able import [Sketch](https://www.sketchapp.com/) files to migrate all of our work into this amazing tool.
+We would welcome inplace editing (a.k.a. Open from ...) of SVG files without the need to import/export files every time, but I am sure there were reasons not to implement this option. Secondly I would love to be able import [Sketch](https://www.sketchapp.com/) files to migrate all of our work into this amazing tool.
 [Mike Swanson](https://twitter.com/anyware) (the developer) pointed out [on Twitter](https://twitter.com/Anyware/status/720051314135162880) that there will be loads of future updates.
 
 We look forward to the development of Bez and give them a warm welcome to the App Store!
