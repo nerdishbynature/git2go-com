@@ -3,6 +3,7 @@ layout: post
 title: How to manage your Podcast Show Notes with Git
 twitter_username: herbigt
 categories: blog
+readtime: 3 min read
 ---
 
 While the first thing which comes to most people's mind when they think of potential use cases for Git-based version control is probably code-related, there are actually some other cool situations in which you may want to consider using Git for organizing files.

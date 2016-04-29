@@ -3,6 +3,7 @@ layout: post
 title: How to version control vector graphics from your iPad
 twitter_username: pietbrauer
 categories: blog
+readtime: 2 min read
 ---
 
 If you are working as a designer or are a developer and do your own graphics you might use version control for it. Until now there weren't any vector graphics apps like Sketch out for iOS but that changed on April 16, 2016.

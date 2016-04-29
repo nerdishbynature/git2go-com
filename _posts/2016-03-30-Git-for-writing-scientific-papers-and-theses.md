@@ -3,6 +3,7 @@ layout: post
 title: Git for writing scientific papers and theses
 twitter_username: kallenbergjulia
 categories: blog
+readtime: 6 min read
 ---
 
 I wish I had known about git and its opportunities while writing the final thesis for my university studies.

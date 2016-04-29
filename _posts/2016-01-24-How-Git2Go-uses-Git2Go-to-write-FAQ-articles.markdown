@@ -3,6 +3,7 @@ layout: post
 title: How Git2Go uses Git2Go to write Git2Go FAQ articles
 twitter_username: pietbrauer
 categories: blog
+readtime: 4 min read
 ---
 
 Let's admit it: managing and writing documentation or FAQ articles is the most boring thing on earth and as a small team of two it is too time consuming. Maybe one day we will have an intern program where people write a lot of FAQ articles but for now we are stuck with ourselves. So how to make it fun and get multiple purposes out of the task?

@@ -3,6 +3,7 @@ layout: post
 title: Building an MVP
 twitter_username: pietbrauer
 categories: blog
+readtime: 6 min read
 ---
 
 Launching an Minimum Viable Product (MVP) is not an easy task, nor does everyone understand what it means. The term is a synonym for half-backed products and tight deadlines but is in fact a nice tool to narrow down features and focus. We launched Git2Go as an MVP 5 months ago and this is how it came to be what it is today.

@@ -3,6 +3,7 @@ layout: post
 title: Confessions of a Git Novice
 twitter_username: herbigt
 categories: blog
+readtime: 5 min read
 ---
 
 Since the earliest days of being a Mobile Product Manager, I overheard terms like branch, merge and commit in developer discussions during which my role was much more the one of the 'client’.  But it wasn’t until I started to closely work with developers on my own side projects, when I truly tapped into the world of Git and version control in general. 

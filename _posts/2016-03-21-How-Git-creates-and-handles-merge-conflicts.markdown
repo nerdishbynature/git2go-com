@@ -3,6 +3,7 @@ layout: post
 title: How Git creates and handles merge conflicts
 twitter_username: pietbrauer
 categories: blog
+readtime: 7 min read
 ---
 
 What is a merge conflict? What does actually happen when you run into a merge conflict? And how do you get rid of it? This blog post intends to answers all your questions and offers advice as well as in-depth Git knowledge.

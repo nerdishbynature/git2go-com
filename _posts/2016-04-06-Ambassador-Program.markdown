@@ -3,6 +3,7 @@ layout: post
 title: Ambassador Program
 twitter_username: pietbrauer
 categories: blog
+readtime: 1 min read
 ---
 
 We are excited to announce the Git2Go Ambassador program today.

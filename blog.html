@@ -11,7 +11,7 @@ description: "Tales of developers, users and productivity nerds around iOS devic
   {% for post in site.categories.blog %}
   <div class="sm-flex flex-center py3">
     <div class="flex-first sm-col sm-col-12">
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.readtime %} – {{post.readtime}}{% endif %}</span>
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
