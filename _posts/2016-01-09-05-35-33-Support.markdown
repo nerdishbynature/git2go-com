@@ -3,6 +3,7 @@ layout: post
 title: Support
 twitter_username: pietbrauer
 categories: blog
+readtime: 2 min read
 ---
 
 Support can be the hardest and most cumbersome thing when launching an app. I launched some apps before without an integrated support system and got loads of emails which I had to respond to, for Git2Go we went another way.

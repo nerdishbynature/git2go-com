@@ -3,6 +3,7 @@ layout: post
 title: Patience
 twitter_username: pietbrauer
 categories: blog
+readtime: 2 min read
 ---
 
 A couple of days ago we [published our sales numbers][1] from iTunes Connect and some usage data from Git2Go on Medium. We did this for information purposes and to prove our point that there is a market for productivity software out there. I am personally not a fan of keeping things behind closed doors. I think posts like these benefit the community and also inspire other developers to pursue their dream and build other useful apps.
