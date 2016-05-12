@@ -18,7 +18,7 @@ if proses.count > 0
   message << "_note_: Proselint is experimental in our process, it won't fail the build, or affect other PRs. It [may offer](http://proselint.com/approach/) some useful advice though though.\n\n"
 
   proses.each do |path, prose|
-    github_loc = "/artsy/artsy.github.io/tree/#{current_branch}/#{path}"
+    github_loc = "/nerdishbynature/git2go-com/tree/#{current_branch}/#{path}"
     message << "#### [#{path}](#{github_loc})\n\n"
 
     message << "Line | Message | Severity |\n"
