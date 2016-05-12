@@ -12,3 +12,4 @@ github_username:  nerdishbynature
 markdown: kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
