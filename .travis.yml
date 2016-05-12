@@ -1,7 +1,8 @@
 os: linux
 language: ruby
 rvm: 2.2.0
-install: gem install jekyll jekyll-sitemap html-proofer
+install: gem install jekyll jekyll-sitemap html-proofer danger
 script:
   - jekyll build
   - htmlproofer ./_site
+  - danger
