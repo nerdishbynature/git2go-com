@@ -13,7 +13,7 @@ video-container {
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
@@ -202,4 +202,21 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.ambassador {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+.ambassador-name {
+    text-align: center;
+    padding-top: 1em;
+    font-weight: bold;
 }
