@@ -1,7 +1,7 @@
 ---
 layout: default
 date:   2016-05-24 00:00:00 +0800
-avatar: "img/DanielPortrait.jpeg"
+avatar: "/img/DanielPortrait.jpeg"
 author: "Daniel Riege, Student"
 categories: ambassadors
 ---
