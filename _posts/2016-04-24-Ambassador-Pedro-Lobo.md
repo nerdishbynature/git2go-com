@@ -1,7 +1,7 @@
 ---
 layout: default
 date:   2016-05-24 00:00:00 +0800
-avatar: "img/PedroPortrait.jpeg"
+avatar: "/img/PedroPortrait.jpeg"
 author: "Pedro Lobo, SysAdmin/DevOps"
 categories: ambassadors
 ---
