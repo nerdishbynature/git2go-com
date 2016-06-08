@@ -6,6 +6,6 @@ author: "Pedro Lobo, SysAdmin/DevOps"
 categories: ambassadors
 ---
 
-Working as a DevOps Engineer, our configuration files are version controlled using Git. They stored on our in-house GitLab Enterprise server. Git2Go allows me to clone those repositories, make any needed changes and push them back up to our configuration management system of choice.
+As a DevOps Engineer, I find it essential to keep all our servers configuration files version controlled using Git and stored on our in-house GitLab Enterprise server. By allowing me to clone those repositories and make any needed alterations, Git2Go has given me the freedom to react to changes wherever I may be at any given moment.
 
-Git2Go allows me to react to changes wherever I am at the moment. Automatic deploys allow me to change server configurations when I am not at my desk.
+Thanks to Git2Go, gone are the days where I need to be at my desk to change server configurations!
