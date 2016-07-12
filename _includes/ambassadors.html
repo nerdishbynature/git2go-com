@@ -1,0 +1,5 @@
+{% for post in site.categories.ambassadors %}
+    <img class="ambassador" src="{{ post.avatar | prepend: site.url }}" />
+    <div class="ambassador-name">{{ post.author }}</div>
+    {{ post.content }}
+{% endfor %}
