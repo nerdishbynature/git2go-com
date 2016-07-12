@@ -4,13 +4,13 @@
 
   
 <div class="center sm-flex flex-start flex-justify py3">
-  {% for post in site.categories.blog limit:3 %}
+  {% for post in site.categories.blog limit:2 %}
   <div class="sm-flex flex-center py3">
     <div class="flex-first sm-col sm-col-12">
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.readtime %} – {{post.readtime}}{% endif %}</span>
-      <h2>
+      <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      </h3>
       {{ post.excerpt }}
     </div>
   </div>
