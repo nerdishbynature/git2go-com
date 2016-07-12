@@ -1,10 +1,8 @@
-<div class="center mb3" id="author">
+<div class="center mb3">
   <h2 class="blue">From our Blog</h2>
 </div>
 
-  
-<div class="center sm-flex flex-start flex-justify py3">
-  {% for post in site.categories.blog limit:2 %}
+{% for post in site.categories.blog limit:2 %}
   <div class="sm-flex flex-center py3">
     <div class="flex-first sm-col sm-col-12">
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.readtime %} – {{post.readtime}}{% endif %}</span>
@@ -14,5 +12,4 @@
       {{ post.excerpt }}
     </div>
   </div>
-  {% endfor %} 
-</div>
+{% endfor %}
