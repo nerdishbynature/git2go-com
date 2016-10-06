@@ -1,0 +1,35 @@
+---
+layout: post
+title: 🎉 1.9.2 Update available with a twist
+twitter_username: pietbrauer
+categories: blog
+readtime: 3 min read
+---
+
+Today we released a new update for [Git2Go](https://itunes.apple.com/us/app/git2go-git-client-you-always/id963577401?mt=8) and [Git2Go Enterprise](https://itunes.apple.com/us/app/git2go-enterprise-git-client/id1079716387?ls=1&mt=8). While a minor version release does not seem that interesting this includes a few important changes:
+
+__Changes to Status__
+
+We reworked the way we refresh the status of the repository. Previously we installed a file watcher that was watching each directory for changes from Git2Go or external apps like Textastic. While this worked for some of you for a few months we encountered bugs with the iOS SDK when you had more than 78 directories in your repository. The bug was so severe, that you could not use Git2Go at all. We are sorry for the users who have experienced that and this update fixes this behavior.
+
+__Changes to Syncing__
+
+Many of you had problems finding an option to push and pull changes and we understand that. We added a Sync button to the navigation bar in Commits which now works the same way as the pull-to-refresh always worked. While we were at it we also added a new badge to the Commits tab. It will now show how many commits are being pulled from the remote and how many commits you are ahead of the remote repository. This gives you a quick heads up before you push to `apple/swift` master 😉.
+
+For those of you who fear syncing: be assured that sync is just a pull followed by a push. We are only pushing, when your branch is ahead of the remote.
+
+__Changes to Branches__
+
+Many of the small improvements we made for version 1.9.2 were made to improve working with larger repositories and more enjoyable. Git on iOS is still fairly new and more and more users try out this new way of interacting with their repositories. We added a new progress indicator when you change branches, giving you an idea, when the operation will be finished.
+
+__Enterprise__
+
+A few months ago we released a new version of Git2Go called [Git2Go Enterprise](http://git2go.com/enterprise.html). It is essentially the same version that Consumers get, and is available through the Volume Purchase Program. This means your company can purchase multiple licenses of Git2Go at once and give it to all employees. This gives everyone the possibility to enjoy our app without paying for it themselves.
+
+If you think your company could be interested in that. Let us know, simply reply to this email and we will get in touch with you very shortly.
+
+__A new thing__
+
+We love talking to you and other users in person as well as through our support channel. While doing so we felt that many possibilities for being productive on iOS are left out and we addressed this by starting a new blog called [MobileOnly.Tools](http://mobileonly.tools), this is a place where we share different workflows and apps we like while working full time on iOS. We are also working on small courses for different professional fields to help you and your friends get started with iOS.
+
+We would love to welcome you to the Mailing List!
