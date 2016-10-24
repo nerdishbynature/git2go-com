@@ -8,4 +8,4 @@ imageheight: 363px
 categories: features
 ---
 
-Did you ever saw that fancy hip GitHub repo being posted on Twitter, wondering what it contains and how it is structured?<br>Well, with our brand new Safari extension, you can immediately clone it to Git2Go and view it natively on your iOS device.
+Have you seen that hip GitHub repo being posted on Twitter, wondering what it contains and how it is structured?<br>Well, with our Safari extension, you can immediately clone it to Git2Go and view it natively on your iOS device.

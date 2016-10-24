@@ -8,7 +8,7 @@ imageheight: 363px
 categories: features
 ---
 
-Seeing your repos is nice, but the real magic starts when you can start to take immediate actions from your iOS device.
+Seeing your repos is nice, but the real magic starts when you start taking immediate actions from your iOS device.
 
 Git2Go enables you to switch into edit mode for all your files with only performing one tap.
 
