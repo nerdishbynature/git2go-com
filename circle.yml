@@ -4,7 +4,6 @@ machine:
 test:
   override:
     - bundle exec jekyll build
-    - bundle exec htmlproofer ./_site
 deployment:
   prod:
     branch: gh-pages
