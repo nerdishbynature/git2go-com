@@ -3,8 +3,8 @@ machine:
     version: 2.4.0
 test:
   override:
-    - jekyll build
-    - htmlproofer ./_site
+    - bundle exec jekyll build
+    - bundle exec htmlproofer ./_site
 deployment:
   prod:
     branch: gh-pages
