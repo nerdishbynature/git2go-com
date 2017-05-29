@@ -8,4 +8,4 @@ deployment:
   prod:
     branch: gh-pages
     commands:
-      - aws s3 sync _site/ s3://git2go-com/ --delete
+      - aws s3 sync _site/ s3://git2go.com/ --delete
