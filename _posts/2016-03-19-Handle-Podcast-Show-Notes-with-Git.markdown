@@ -39,7 +39,7 @@ When the episode is done, up and live, we can merge the respective episode branc
 
 Which other use cases for version control with Git have you already discovered and what do you still struggle with? Let me know on [Twitter][5] or via [e-mail][6]
 
-[1]:	http://git2go.com/blog/2016/03/13/Confessions-of-a-Git-Novice.html
+[1]:	https://git2go.com/blog/2016/03/13/Confessions-of-a-Git-Novice.html
 [2]:	https://itunes.apple.com/us/app/git2go-git-client-you-always/id963577401?mt=8
 [3]:	http://toadle.me
 [4]:	http://productish.com

@@ -93,6 +93,6 @@ frameborder="0" allowFullScreen></iframe>
 
 I hope you enjoyed this explainer of this 'popular' Git state. If so, feel free to share it with your Git-affiliated friends and us up [on Twitter ][3]with your merge conflict experiences - possibly even from an iOS device.
 
-[1]:	http://git2go.com/
+[1]:	https://git2go.com/
 [2]:	https://github.com/libgit2/libgit2
 [3]:	http://twitter.com/Git2Go

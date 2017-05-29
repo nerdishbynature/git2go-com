@@ -24,7 +24,7 @@ Many of the small improvements we made for version 1.9.2 were made to improve wo
 
 __Enterprise__
 
-A few months ago we released a new version of Git2Go called [Git2Go Enterprise](http://git2go.com/enterprise.html). It is essentially the same version that Consumers get, and is available through the Volume Purchase Program. This means your company can purchase multiple licenses of Git2Go at once and give it to all employees. This gives everyone the possibility to enjoy our app without paying for it themselves.
+A few months ago we released a new version of Git2Go called [Git2Go Enterprise](https://git2go.com/enterprise.html). It is essentially the same version that Consumers get, and is available through the Volume Purchase Program. This means your company can purchase multiple licenses of Git2Go at once and give it to all employees. This gives everyone the possibility to enjoy our app without paying for it themselves.
 
 If you think your company could be interested in that. Let us know, simply reply to this email and we will get in touch with you very shortly.
 

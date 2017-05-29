@@ -64,6 +64,6 @@ With Git2Go you can make or look at changes while commuting or lying on the couc
 
 [1]:	https://education.github.com
 [2]:	https://guides.github.com/activities/hello-world/
-[3]:	http://git2go.com/blog/2016/03/21/How-Git-creates-and-handles-merge-conflicts.html
+[3]:	https://git2go.com/blog/2016/03/21/How-Git-creates-and-handles-merge-conflicts.html
 [4]:	http://whatismarkdown.com
 [5]:	http://www.ulyssesapp.com
