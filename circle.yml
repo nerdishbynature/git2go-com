@@ -6,6 +6,6 @@ test:
     - bundle exec jekyll build
 deployment:
   prod:
-    branch: gh-pages
+    branch: master
     commands:
       - aws s3 sync _site/ s3://git2go.com/ --delete --region eu-central-1
