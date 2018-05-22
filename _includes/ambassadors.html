@@ -2,7 +2,7 @@
   <h2 class="blue">Meet our Ambassadors</h2>
 </div>
 {% for post in site.categories.ambassadors %}
-    <img class="ambassador" src="{{ post.avatar | prepend: site.url }}" />
+    <img class="ambassador" src="{{ post.avatar }}" />
     <div class="ambassador-name">{{ post.author }}</div>
     {{ post.content }}
 {% endfor %}
