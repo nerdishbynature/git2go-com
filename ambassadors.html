@@ -8,7 +8,7 @@ description: "Meet our ambassadors"
   <div class="container px2 sm-px3" style="max-width:64rem;">
     {% include header.html %}
     {% for post in site.categories.ambassadors %}
-      <img class="ambassador" src="{{ post.avatar | prepend: site.url }}" />
+      <img class="ambassador" src="{{ post.avatar }}" />
       <div class="ambassador-name">{{ post.author }}</div>
       {{ post.content }}
     {% endfor %}
